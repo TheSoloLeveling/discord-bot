@@ -1,2 +1,1 @@
-token = MTE4MTE5MTA3MTI1OTE2NDc3Mg.GhdLtG.APxVtjIGHVa-SNXneI3y7Yk89Nl18f97diyPrg
 https://discord.com/api/oauth2/authorize?client_id=1181191071259164772&permissions=2183991392320&scope=bot
